@@ -29,8 +29,8 @@ There are four files.
 Please open and run them in this order:
 * therapy_setup1.sql
 * therapy_setup2.sql
-* therapy_queries1.sql
-* therapy4_queries2.sql
+* therapy_queries3.sql
+* therapy4_queries4.sql
 
 ## Credits
 
